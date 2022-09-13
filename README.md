@@ -3,8 +3,7 @@
 ## Whatup 
 ![Alt text](https://i.makeagif.com/media/2-03-2016/GV_byi.gif)
 
-https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg
-(https://nbviewer.jupyter.org/github/rcjones9/BIOS512-Assignments/tree/main/)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/rcjones9/BIOS512-Assignments/tree/main/)
 
 - I
 - like
